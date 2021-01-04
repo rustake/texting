@@ -1,0 +1,18 @@
+[package]
+name = "texting"
+description = "string helpers"
+keywords = ["string", "str", "text", "language-processing"]
+version = "0.0.1"
+authors = ["Hoyeung <hoyeungw@outlook.com>"]
+readme = "README.md"
+license = "MIT"
+edition = "2018"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[dev-dependencies]
+veho = ">=0.0.5"
+
