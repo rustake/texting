@@ -2,7 +2,7 @@
 name = "texting"
 description = "string helpers"
 keywords = ["string", "str", "text", "language-processing"]
-version = "0.0.2"
+version = "0.0.3"
 authors = ["Hoyeung <hoyeungw@outlook.com>"]
 readme = "README.md"
 license = "MIT"
