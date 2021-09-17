@@ -1,7 +1,12 @@
-pub use _capitalize::capitalize;
-pub use _str_value::str_value;
-pub use _sub::sub;
+pub use capitalize::capitalize;
+pub use concat::{Concat, Join};
+pub use str_value::str_value;
+pub use sub::sub;
 
-mod _capitalize;
-mod _str_value;
-mod _sub;
+pub mod chars;
+
+mod capitalize;
+mod str_value;
+mod sub;
+mod lines;
+mod concat;
