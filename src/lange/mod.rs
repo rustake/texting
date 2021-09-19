@@ -26,7 +26,7 @@ mod tests {
             "\u{1F3C3}2\u{1F525}7",
             "\u{001B}[0m\u{001B}[4m\u{001B}[42m\u{001B}[31mfoo\u{001B}[39m\u{001B}[49m\u{001B}[24mfoo\u{001B}[0m🦄bar",
         ];
-        println!("has");
+        println!("lange");
         (&candidates).iterate(|x| {
             println!("[{}] ({})", x, lange(x))
         });
