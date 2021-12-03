@@ -2,7 +2,7 @@
 name = "texting"
 description = "string helpers"
 keywords = ["string", "str", "text", "language-processing"]
-version = "0.0.6"
+version = "0.0.7"
 authors = ["Hoyeung <hoyeungw@outlook.com>"]
 readme = "README.md"
 license = "MIT"
@@ -17,5 +17,5 @@ vte = ">=0.10.0"
 
 [dev-dependencies]
 #strum_macros = ">=0.21.1"
-veho = ">=0.0.19"
+veho = ">=0.0.20"
 
