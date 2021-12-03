@@ -6,7 +6,7 @@ version = "0.0.6"
 authors = ["Hoyeung <hoyeungw@outlook.com>"]
 readme = "README.md"
 license = "MIT"
-edition = "2018"
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
